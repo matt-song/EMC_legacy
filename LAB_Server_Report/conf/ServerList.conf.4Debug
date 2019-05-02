@@ -1,0 +1,2 @@
+#IP,TYPE(DD=DataDomain,SW=Switch,LI=LinuxServer),COMMENT,IPMI
+10.25.18.184,DD,sysadmin,abc123,DD3300,10.25.18.3

@@ -1,0 +1,296 @@
+[32m[INFO] ===== Working on [10.32.190.32] =====
+[0m[31m[ERROR] DD is offline, skip
+[0m[32m[INFO] ===== Working on [10.37.2.15] =====
+[0m[32m[INFO] [10.37.2.15] is [Online]
+[0m[32m[INFO] DDOS Release is [2.0.1.0]
+[0m[32m[INFO] DDR Model No is [DDMC]
+[0m[32m[INFO] DDR replication configured status is [-]
+[0m[32m[INFO] DDR working replicatoin pair is [-]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.50] =====
+[0m[32m[INFO] [10.37.2.50] is [Online]
+[0m[32m[INFO] DDOS Release is [5.5.3.3]
+[0m[32m[INFO] DDR Model No is [DD4200]
+[0m[32m[INFO] DDR replication configured status is [Yes]
+[0m[32m[INFO] DDR working replicatoin pair is [2]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.37.2.28] =====
+[0m[32m[INFO] [10.37.2.28] is [Online]
+[0m[32m[INFO] DDOS Release is [n/a]
+[0m[32m[INFO] DDR Model No is [DD2500]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.5] =====
+[0m[32m[INFO] [10.37.2.5] is [Online]
+[0m[32m[INFO] DDOS Release is [5.7.5.10]
+[0m[32m[INFO] DDR Model No is [DD890]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.25.18.184] =====
+[0m[31m[ERROR] DD is offline, skip
+[0m[32m[INFO] ===== Working on [10.37.190.39] =====
+[0m[31m[ERROR] DD is offline, skip
+[0m[32m[INFO] ===== Working on [10.32.190.30] =====
+[0m[32m[INFO] [10.32.190.30] is [Online]
+[0m[32m[INFO] DDOS Release is [5.1.0.9]
+[0m[32m[INFO] DDR Model No is [DD690]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.55] =====
+[0m[31m[ERROR] DD is offline, skip
+[0m[32m[INFO] ===== Working on [10.37.2.34] =====
+[0m[32m[INFO] [10.37.2.34] is [Online]
+[0m[32m[INFO] DDOS Release is [6.0.2.006]
+[0m[32m[INFO] DDR Model No is [DD7200]
+[0m[32m[INFO] DDR replication configured status is [Yes]
+[0m[32m[INFO] DDR working replicatoin pair is [15]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.32.190.40] =====
+[0m[31m[ERROR] DD is offline, skip
+[0m[32m[INFO] ===== Working on [10.37.2.41] =====
+[0m[32m[INFO] [10.37.2.41] is [Online]
+[0m[32m[INFO] DDOS Release is [5.7.2.0]
+[0m[32m[INFO] DDR Model No is [DD7200]
+[0m[32m[INFO] DDR replication configured status is [Yes]
+[0m[32m[INFO] DDR working replicatoin pair is [4]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.37.2.16] =====
+[0m[32m[INFO] [10.37.2.16] is [Online]
+[0m[32m[INFO] DDOS Release is [5.7.32.0]
+[0m[32m[INFO] DDR Model No is [DDVE]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.13] =====
+[0m[32m[INFO] [10.37.2.13] is [Online]
+[0m[32m[INFO] DDOS Release is [n/a]
+[0m[32m[INFO] DDR Model No is [DD160]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.22] =====
+[0m[32m[INFO] [10.37.2.22] is [Online]
+[0m[32m[INFO] DDOS Release is [5.7.5.6]
+[0m[32m[INFO] DDR Model No is [DD990]
+[0m[32m[INFO] DDR replication configured status is [Yes]
+[0m[32m[INFO] DDR working replicatoin pair is [7]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.37.2.9] =====
+[0m[32m[INFO] [10.37.2.9] is [Online]
+[0m[32m[INFO] DDOS Release is [5.7.0.3]
+[0m[32m[INFO] DDR Model No is [DD860]
+[0m[32m[INFO] DDR replication configured status is [Yes]
+[0m[32m[INFO] DDR working replicatoin pair is [2]
+[0m[32m[INFO] FileSystem status is [Offline]
+[0m[32m[INFO] FC card status is [No]
+[0m[32m[INFO] ===== Working on [10.37.2.30] =====
+[0m[32m[INFO] [10.37.2.30] is [Online]
+[0m[32m[INFO] DDOS Release is [6.1.0.21]
+[0m[32m[INFO] DDR Model No is [DD640]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [Yes]
+[0m[32m[INFO] ===== Working on [10.37.2.14] =====
+[0m[32m[INFO] [10.37.2.14] is [Online]
+[0m[32m[INFO] DDOS Release is [6.0.2.20]
+[0m[32m[INFO] DDR Model No is [DDVE]
+[0m[32m[INFO] DDR replication configured status is [No]
+[0m[32m[INFO] DDR working replicatoin pair is [0]
+[0m[32m[INFO] FileSystem status is [Online]
+[0m[32m[INFO] FC card status is [No]
+[0m$VAR1 = {
+          '10.37.2.16' => {
+                            'fc' => 'No',
+                            'status' => 'Online',
+                            'version' => '5.7.32.0',
+                            'filesystem' => 'Offline',
+                            'model' => 'DDVE',
+                            'repl_num' => 0,
+                            'repl_set' => 'No',
+                            'ipmi' => 'na'
+                          },
+          '10.37.2.13' => {
+                            'filesystem' => 'Offline',
+                            'model' => 'DD160',
+                            'ipmi' => 'na',
+                            'repl_set' => 'No',
+                            'repl_num' => 0,
+                            'fc' => 'No',
+                            'status' => 'Online',
+                            'version' => 'n/a'
+                          },
+          '10.37.2.41' => {
+                            'filesystem' => 'Online',
+                            'model' => 'DD7200',
+                            'ipmi' => 'na',
+                            'repl_set' => 'Yes',
+                            'repl_num' => 4,
+                            'fc' => 'Yes',
+                            'status' => 'Online',
+                            'version' => '5.7.2.0'
+                          },
+          '10.37.2.14' => {
+                            'version' => '6.0.2.20',
+                            'status' => 'Online',
+                            'fc' => 'No',
+                            'repl_set' => 'No',
+                            'repl_num' => 0,
+                            'ipmi' => 'na',
+                            'model' => 'DDVE',
+                            'filesystem' => 'Online'
+                          },
+          '10.37.2.22' => {
+                            'filesystem' => 'Online',
+                            'model' => 'DD990',
+                            'ipmi' => 'na',
+                            'repl_set' => 'Yes',
+                            'repl_num' => 7,
+                            'fc' => 'Yes',
+                            'status' => 'Online',
+                            'version' => '5.7.5.6'
+                          },
+          '10.37.2.30' => {
+                            'repl_num' => 0,
+                            'repl_set' => 'No',
+                            'ipmi' => 'na',
+                            'model' => 'DD640',
+                            'filesystem' => 'Online',
+                            'version' => '6.1.0.21',
+                            'status' => 'Online',
+                            'fc' => 'Yes'
+                          },
+          '10.37.2.9' => {
+                           'status' => 'Online',
+                           'version' => '5.7.0.3',
+                           'fc' => 'No',
+                           'ipmi' => 'na',
+                           'repl_set' => 'Yes',
+                           'repl_num' => 2,
+                           'filesystem' => 'Offline',
+                           'model' => 'DD860'
+                         },
+          '10.37.2.50' => {
+                            'filesystem' => 'Online',
+                            'model' => 'DD4200',
+                            'ipmi' => 'na',
+                            'repl_set' => 'Yes',
+                            'repl_num' => 2,
+                            'fc' => 'Yes',
+                            'status' => 'Online',
+                            'version' => '5.5.3.3'
+                          },
+          '10.37.2.15' => {
+                            'repl_set' => '-',
+                            'repl_num' => '-',
+                            'ipmi' => 'na',
+                            'model' => 'DDMC',
+                            'filesystem' => 'Offline',
+                            'version' => '2.0.1.0',
+                            'status' => 'Online',
+                            'fc' => 'No'
+                          },
+          '10.25.18.184' => {
+                              'status' => 'Offline',
+                              'version' => '-',
+                              'fc' => '-',
+                              'repl_set' => '-',
+                              'repl_num' => '-',
+                              'ipmi' => '10.25.18.3',
+                              'filesystem' => '-',
+                              'model' => 'DD3300'
+                            },
+          '10.37.2.5' => {
+                           'model' => 'DD890',
+                           'filesystem' => 'Offline',
+                           'repl_num' => 0,
+                           'repl_set' => 'No',
+                           'ipmi' => 'na',
+                           'fc' => 'Yes',
+                           'version' => '5.7.5.10',
+                           'status' => 'Online'
+                         },
+          '10.37.2.28' => {
+                            'ipmi' => 'na',
+                            'repl_num' => 0,
+                            'repl_set' => 'No',
+                            'model' => 'DD2500',
+                            'filesystem' => 'Offline',
+                            'version' => 'n/a',
+                            'status' => 'Online',
+                            'fc' => 'No'
+                          },
+          '10.32.190.32' => {
+                              'repl_num' => '-',
+                              'repl_set' => '-',
+                              'ipmi' => 'na',
+                              'model' => 'D630',
+                              'filesystem' => '-',
+                              'version' => '-',
+                              'status' => 'Offline',
+                              'fc' => '-'
+                            },
+          '10.37.2.55' => {
+                            'fc' => '-',
+                            'version' => '-',
+                            'status' => 'Offline',
+                            'model' => 'DD2200',
+                            'filesystem' => '-',
+                            'repl_set' => '-',
+                            'repl_num' => '-',
+                            'ipmi' => 'na'
+                          },
+          '10.32.190.40' => {
+                              'fc' => '-',
+                              'status' => 'Offline',
+                              'version' => '-',
+                              'filesystem' => '-',
+                              'model' => 'DD2500',
+                              'repl_num' => '-',
+                              'repl_set' => '-',
+                              'ipmi' => 'na'
+                            },
+          '10.37.2.34' => {
+                            'filesystem' => 'Online',
+                            'model' => 'DD7200',
+                            'ipmi' => 'na',
+                            'repl_set' => 'Yes',
+                            'repl_num' => 15,
+                            'fc' => 'Yes',
+                            'status' => 'Online',
+                            'version' => '6.0.2.006'
+                          },
+          '10.32.190.30' => {
+                              'ipmi' => 'na',
+                              'repl_num' => 0,
+                              'repl_set' => 'No',
+                              'model' => 'DD690',
+                              'filesystem' => 'Offline',
+                              'version' => '5.1.0.9',
+                              'status' => 'Online',
+                              'fc' => 'No'
+                            },
+          '10.37.190.39' => {
+                              'model' => 'DD880',
+                              'filesystem' => '-',
+                              'repl_set' => '-',
+                              'repl_num' => '-',
+                              'ipmi' => 'na',
+                              'fc' => '-',
+                              'version' => '-',
+                              'status' => 'Offline'
+                            }
+        };
